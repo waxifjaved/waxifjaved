@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @waxifjaved
 - 👀 I’m interested in Mobile Application Development(Mad)
-- 🌱 I’m currently learning MAD
-- 💞️ I’m looking to collaborate you on MAD , Java, wordPress, HTML,CSS
+- 🌱 I’m currently learning C#
+- 💞️ I’m looking to collaborate you on MAD , Java, wordPress, HTML,CSS , Unity
 - 📫 How to reach me ..
 Gmail:Waxifjaved@gmail.com
 LinkedIn: Waxifjaved@gmail.com
