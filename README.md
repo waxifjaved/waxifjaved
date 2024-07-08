@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @waxifjaved
 - 👀 I’m interested in Gamming.
 - 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate you on MAD , Java, wordPress, HTML,CSS , Unity
+- 💞️ I’m looking to collaborate you on MAD , Java, wordPress, HTML,CSS , Unity , C# , 3D , 2D Games, Simulation Games, Shooting Games FPS/TPS.
 - 📫 How to reach me ..
 Gmail:Waxifjaved@gmail.com
 LinkedIn: Waxifjaved@gmail.com
